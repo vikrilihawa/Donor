@@ -89,8 +89,8 @@ private void loadData(){
         jLabel1.setBackground(new java.awt.Color(255, 255, 255));
         jLabel1.setFont(new java.awt.Font("Trajan Pro", 0, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(51, 51, 51));
-        jLabel1.setText("Data Pendonor Darah");
-        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 10, 490, 60));
+        jLabel1.setText("Donor Darah");
+        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 10, 310, 60));
 
         jLabel10.setIcon(new javax.swing.ImageIcon("D:\\Work\\PBO\\UTS-DonorDarah-531417017\\Donor-PNG-File.png")); // NOI18N
         jPanel1.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 10, -1, -1));
